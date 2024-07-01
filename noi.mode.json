@@ -184,6 +184,12 @@
       "url": "https://news.ycombinator.com"
     },
     {
+      "id": "noi:Miro",
+      "parent": "noi@design",
+      "text": "Miro",
+      "url": "https://miro.com/app"
+    },
+    {
       "id": "noi:figma",
       "parent": "noi@design",
       "text": "Figma",
