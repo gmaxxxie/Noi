@@ -88,6 +88,12 @@
       "url": "https://www.perplexity.ai"
     },
     {
+      "id": "noi:MagictoDo",
+      "parent": "noi@ai",
+      "text": "MagictoDo",
+      "url": "https://goblin.tools/i"
+    },
+    {
       "id": "noi:copilot",
       "parent": "noi@ai",
       "text": "Copilot",
