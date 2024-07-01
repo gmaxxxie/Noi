@@ -40,6 +40,24 @@
       "text": "Video"
     },
     {
+      "id": "noi:Chatkit",
+      "parent": "noi@ai",
+      "text": "Chatkit",
+      "url": "https://chatkit.app/"
+    },
+    {
+      "id": "noi:Devv",
+      "parent": "noi@ai",
+      "text": "Devv",
+      "url": "https://devv.ai/zh"
+    },
+    {
+      "id": "noi:Lobechat",
+      "parent": "noi@ai",
+      "text": "Lobechat",
+      "url": "https://www.maxxiewei.top/"
+    },
+    {
       "id": "noi:chatgpt",
       "parent": "noi@ai",
       "text": "ChatGPT",
