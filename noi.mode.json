@@ -45,11 +45,11 @@
       "text": "Chatkit",
       "url": "https://chatkit.app/"
     },
-    {
-      "id": "noi:Devv",
+   {
+      "id": "noi:perplexity",
       "parent": "noi@ai",
-      "text": "Devv",
-      "url": "https://devv.ai/zh"
+      "text": "Perplexity",
+      "url": "https://www.perplexity.ai"
     },
     {
       "id": "noi:Lobechat",
@@ -82,10 +82,10 @@
       "url": "https://poe.com"
     },
     {
-      "id": "noi:perplexity",
+      "id": "noi:Devv",
       "parent": "noi@ai",
-      "text": "Perplexity",
-      "url": "https://www.perplexity.ai"
+      "text": "Devv",
+      "url": "https://devv.ai/zh"
     },
     {
       "id": "noi:MagictoDo",
