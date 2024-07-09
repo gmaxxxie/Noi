@@ -52,10 +52,16 @@
       "url": "https://www.perplexity.ai"
     },
     {
+      "id": "noi:Maxchat",
+      "parent": "noi@ai",
+      "text": "Maxchat",
+      "url": "https://www.maxxiewei.top/"
+    },
+   {
       "id": "noi:Lobechat",
       "parent": "noi@ai",
       "text": "Lobechat",
-      "url": "https://www.maxxiewei.top/"
+      "url": "https://lobechat.com/"
     },
     {
       "id": "noi:chatgpt",
