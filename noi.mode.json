@@ -40,7 +40,7 @@
       "text": "Video"
     },
     {
-      "id": "noi:Chatkit",
+      "id": "noi:chatkit",
       "parent": "noi@ai",
       "text": "Chatkit",
       "url": "https://chatkit.app/"
@@ -52,7 +52,13 @@
       "url": "https://www.perplexity.ai"
     },
     {
-      "id": "noi:Maxchat",
+      "id": "noi:felo",
+      "parent": "noi@ai",
+      "text": "Felo",
+      "url": "https://chat.felo.ai/"
+    }
+    {
+      "id": "noi:maxchat",
       "parent": "noi@ai",
       "text": "Maxchat",
       "url": "https://www.maxxiewei.top/"
