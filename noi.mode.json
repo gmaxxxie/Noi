@@ -242,6 +242,12 @@
       "parent": "noi@video",
       "text": "YouTube",
       "url": "https://www.youtube.com"
+    },
+    {
+      "id": "noi:youtubemusic",
+      "parent": "noi@video",
+      "text": "YouTubeMusic",
+      "url": "https://music.youtube.com/"
     }
   ]
 }
